@@ -4,8 +4,7 @@ public class git2022 {
 
 	public static void main(String[] args) {
 		System.out.println("2331");
-		System.out.println("vebbvveb");
-		System.out.println("benmenbbkkenbbdkkbek");
+		System.out.println("nomiladino");
 	}
 
 }
